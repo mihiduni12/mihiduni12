@@ -1,4 +1,4 @@
-
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
 ---
 <h1 align="center">Hi 👋, I'm Mihiduni Abeyratne</h1>
 <h3 align="center">A Passionate Web Developer</h3>
