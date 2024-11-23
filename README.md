@@ -1,4 +1,4 @@
-<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="center" width = 50px></picture>
+<picture><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" align="center" width = 50px></picture>
 ---
 <h1 align="center">Hi 👋, I'm Mihiduni Abeyratne</h1>
 <h3 align="center">A Passionate Web Developer</h3>
